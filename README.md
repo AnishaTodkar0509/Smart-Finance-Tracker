@@ -151,7 +151,7 @@ If you found this project useful or interesting:
 
 ## 👩‍💻 Author
 
-**Anisha Todkar**
+**Anisha Ravindra Todkar**
 
 ---
 
