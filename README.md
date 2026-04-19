@@ -54,7 +54,9 @@
 
 ![Graph](Screenshots/graph.png)
 
-![Prediction popup](Screenshots/Prediction%20popup.png)
+### 🤖 Prediction Popup
+
+![Prediction](screenshots/Prediction popup.png)
 
 ---
 
