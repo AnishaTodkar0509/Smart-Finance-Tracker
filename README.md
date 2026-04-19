@@ -56,7 +56,7 @@
 
 ### 🤖 Prediction Popup
 
-![Prediction](Screenshots/Prediction popup.png)
+![Prediction popup](Screenshots/Prediction popup.png)
 
 ---
 
